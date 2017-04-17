@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Ignore and move on its just another repository.
